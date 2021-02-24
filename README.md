@@ -57,3 +57,5 @@ Git初心者のわかばちゃんと一緒に、楽しくGitをマスターし�
 <p><br><a href="https://www.amazon.co.jp/%25E6%25B9%258A%25E5%25B7%259D-%25E3%2581%2582%25E3%2581%2584/e/B01N8OK2UW/ref=as_li_ss_tl?ref=sr_ntt_srch_lnk_3&amp;qid=1610016874&amp;sr=1-3&amp;linkCode=sl2&amp;tag=cam51p-22&amp;linkId=73efcb142907befc72b01944554f21dd&amp;language=ja_JP" style="color: #0095c2;" target="_blank">わかばちゃんと学ぶシリーズ（Amazonページ）</a></p>
 
 <img src="https://pbs.twimg.com/media/C-E-okEUwAA9ILA.jpg" width="150px">
+
+Web連載や新刊の情報は、[湊川あいのTwitterアカウント](https://twitter.com/llminatoll)で発信中！
